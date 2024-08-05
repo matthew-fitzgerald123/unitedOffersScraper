@@ -1,0 +1,9 @@
+"Chromium Shortcut" = "Συντόμευση Chromium";
+CFBundleGetInfoString = "Google Chrome for Testing 127.0.6533.72, Πνευματικά δικαιώματα 2024 Google LLC. Με την επιφύλαξη παντός δικαιώματος.";
+NSBluetoothAlwaysUsageDescription = "Όταν το Chromium αποκτήσει πρόσβαση, οι ιστότοποι θα μπορούν να σας ζητήσουν πρόσβαση.";
+NSBluetoothPeripheralUsageDescription = "Όταν το Chromium αποκτήσει πρόσβαση, οι ιστότοποι θα μπορούν να σας ζητήσουν πρόσβαση.";
+NSCameraUsageDescription = "Όταν το Chromium αποκτήσει πρόσβαση, οι ιστότοποι θα μπορούν να σας ζητήσουν πρόσβαση.";
+NSHumanReadableCopyright = "Πνευματικά δικαιώματα 2024 Google LLC. Με την επιφύλαξη παντός δικαιώματος.";
+NSLocationUsageDescription = "Όταν το Chromium αποκτήσει πρόσβαση, οι ιστότοποι θα μπορούν να σας ζητήσουν πρόσβαση.";
+NSMicrophoneUsageDescription = "Όταν το Chromium αποκτήσει πρόσβαση, οι ιστότοποι θα μπορούν να σας ζητήσουν πρόσβαση.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Όταν το Chromium αποκτήσει πρόσβαση, οι ιστότοποι θα μπορούν να σας ζητήσουν πρόσβαση.";

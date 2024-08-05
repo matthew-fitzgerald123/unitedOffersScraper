@@ -1,0 +1,9 @@
+"Chromium Shortcut" = "Chromium-snarvei";
+CFBundleGetInfoString = "Google Chrome for Testing 127.0.6533.72, Copyright 2024 Google LLC. Med enerett.";
+NSBluetoothAlwaysUsageDescription = "Når Chromium har fått tilgang, kan nettsteder spørre deg om tilgang.";
+NSBluetoothPeripheralUsageDescription = "Når Chromium har fått tilgang, kan nettsteder spørre deg om tilgang.";
+NSCameraUsageDescription = "Når Chromium har fått tilgang, kan nettsteder spørre deg om tilgang.";
+NSHumanReadableCopyright = "Copyright 2024 Google LLC. Med enerett.";
+NSLocationUsageDescription = "Når Chromium har fått tilgang, kan nettsteder spørre deg om tilgang.";
+NSMicrophoneUsageDescription = "Når Chromium har fått tilgang, kan nettsteder spørre deg om tilgang.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Når Chromium har fått tilgang, kan nettsteder spørre deg om tilgang.";
