@@ -1,5 +1,5 @@
 # United Offers Scraper
-united offer scraper automation script
+python automation script
 
 Python Script that scrapes offers from United Airlines website offers section and prints them to a .csv for easy reading.
 
